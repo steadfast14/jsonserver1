@@ -1,0 +1,26 @@
+{
+  "posts": [
+    { "id": 1,
+    "name": "Leanne Graham",
+    "ratings": 4,
+    "prLink": "https://google.com",
+    "jobTitle": "Front-End" },
+    {  "id": 2,
+    "name": "Geminie Tadson",
+    "ratings": 3,
+    "prLink": "https://google.com",
+    "jobTitle": "Back-End" },
+    { "id": 3,
+    "name": "Wayne Staford",
+    "ratings": 2,
+    "prLink": "https://google.com",
+    "jobTitle": "Front-End" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
